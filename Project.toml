@@ -1,0 +1,7 @@
+name = "NumpyArrayInterface"
+uuid = "4611fe39-9124-4a44-89f9-1c7b81346f7a"
+authors = ["Christopher Doris <github.com/cjdoris>"]
+version = "0.1.0"
+
+[deps]
+ArrayInterface = "4fba245c-0d91-5ea0-9b3e-6abc04ee57a9"
